@@ -1,13 +1,9 @@
 <!--
 
-- 🔭 I am a programming student with a passion for creative thinking and problem solving
-- 🌱 I’m currently learning low-end computing and distributed computing concepts
-- 👯 Although I love GitHub as a reference, I'm inexperienced on creating a profile.
-     Code you see here will most likely be ill-formatted and incomplete
-- 🤔 I’m looking to learn from those around me!
-- 💬 My top languages are C++ and Python
-- 📫 How to reach me: seth.joslin123@gmail.com
-- 😄 Pronouns: he/him
+Project here likely fall into one of three categories:
+1. Personal Projects for self development
+2. Assignments from my Masters at UIUC
+3. Assignments from my Undergrad at AState
 
-
+I keep the AState assignments around becuase they're sentimental, Personal Projects and Masters repos is where the good stuff is.
 -->
